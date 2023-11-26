@@ -1,0 +1,464 @@
+[
+  [
+    { "date": 27, "month": "Novembris", "showMonth": true, "events": [] },
+    {
+      "date": 28,
+      "month": "Novembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Atvērto durvju diena",
+          "time": "16:00 - 18:00",
+          "title": "NĀC UN IEPAZĪSTI RUCKAS MUIŽU!",
+          "info": "18:00 - 21:00 diskusija un ideju apmaiņa par muižas lomu cēsinieku dzīvē",
+          "infoLong": "No 16:00 līdz 18:00 iepazīstiet Ruckas muižu un no 18:00 līdz 21:00 piedalieties diskusijā un ideju apmaiņā par muižas lomu cēsinieku dzīvē!",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "date": 29,
+      "month": "Novembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": []
+    },
+    {
+      "date": 30,
+      "month": "Novembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Kinolektorijs (dok. filma)",
+          "time": "18:00",
+          "title": "SVĒTCEĻOJUMS UZ SVĒTVIETU MEDŽUGORJE",
+          "info": "ar Renāru Sproģi un Andreju Trapočku",
+          "infoLong": "Kopā ar Renāru Sproģi un Andreju Trapočku",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "date": 1,
+      "month": "Decembris",
+      "showMonth": true,
+      "eventCount": 1,
+      "events": []
+    },
+    {
+      "date": 2,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Bērnu radošais rīts",
+          "time": "10:00 / 11:30",
+          "title": "RADI UN DARI!",
+          "info": "ar Inutu Briedi",
+          "infoLong": "Kopā ar Inutu Briedi",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 3,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Teātra izrāde bērniem",
+          "time": "12:00",
+          "title": "GADALAIKI",
+          "info": "Cēsu Jaunā teātra izrāde",
+          "infoLong": "Cēsu Jaunā teātra izrāde",
+          "color": "yellow"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "date": 4,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Sarunu vakars",
+          "time": "18:00",
+          "title": "MUIŽU VĒSTURE...",
+          "info": "ar Dr. Vitoldu Mašnovski",
+          "infoLong": "Kopā ar Dr. Vitoldu Mašnovski",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "date": 5,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Sarunu un stāstu vakars",
+          "time": "18:30",
+          "title": "DZIĻI RUCKĀ",
+          "info": "ar Liesmu Puduli",
+          "infoLong": "Kopā ar Liesmu Puduli",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "date": 6,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": []
+    },
+    {
+      "date": 7,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Lekciju cikls (1)",
+          "time": "18:30",
+          "title": "KALIGRĀFIJA VĒSTURISKAJOS LAIKMETOS UN KULTŪRĀS",
+          "info": "ar Astru Reini",
+          "infoLong": "Kopā ar Astru Reini",
+          "color": "brown"
+        }
+      ]
+    },
+    {
+      "date": 8,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Dzeja un sarunas",
+          "time": "18:30",
+          "title": "MUIŽAS VAKARI",
+          "info": "ar Cēsu teātra aktieriem",
+          "infoLong": "Kopā ar Cēsu teātra aktieriem",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "date": 9,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 3,
+      "events": [
+        {
+          "type": "Bērnu radošais rīts",
+          "time": "10:00 / 11:30",
+          "title": "RADI UN DARI!",
+          "info": "",
+          "infoLong": "",
+          "color": "green"
+        },
+        {
+          "type": "Atvērto durvju diena",
+          "time": "16:00 - 18:00",
+          "title": "NĀC UN IEPAZĪSTI RUCKAS MUIŽU!",
+          "info": "",
+          "infoLong": "",
+          "color": "yellow"
+        },
+        {
+          "type": "Koncerts MAZPUTNIŅŠ",
+          "time": "17:30",
+          "title": "TOMS ŅIZINS",
+          "info": "",
+          "infoLong": "",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "date": 10,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": []
+    }
+  ],
+  [
+    {
+      "date": 11,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": []
+    },
+    {
+      "date": 12,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Sarunu un stāstu vakars",
+          "time": "18:30",
+          "title": "RUCKAS STĀSTI",
+          "info": "ar Liesmu Puduli",
+          "infoLong": "Kopā ar Liesmu Puduli",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "date": 13,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": []
+    },
+    {
+      "date": 14,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 2,
+      "events": [
+        {
+          "type": "Lekciju cikls (2)",
+          "time": "18:30",
+          "title": "KALIGRĀFIJA...",
+          "info": "",
+          "infoLong": "",
+          "color": "brown"
+        },
+        {
+          "type": "Filma DOKUMENTĀLISTS",
+          "time": "18:30",
+          "title": "PAR PURVA INTAS...",
+          "info": "ar režisoru Ivaru Zviedri",
+          "infoLong": "Kopā ar režisoru Ivaru Zviedri",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "date": 15,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 2,
+      "events": [
+        {
+          "type": "Dzeja un sarunas",
+          "time": "18:30",
+          "title": "MUIŽAS VAKARI",
+          "info": "",
+          "infoLong": "",
+          "color": "red"
+        },
+
+        {
+          "type": "Meistardarbnīca",
+          "time": "17:30 - 19:30",
+          "title": "SVĒTKU KARTIŅAS...",
+          "info": "ar Aigu Kalniņu",
+          "infoLong": "Kopā ar Aigu Kalniņu",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "date": 16,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": []
+    },
+    {
+      "date": 17,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Ziemassvētki bērniem",
+          "time": "11:00 / 13:00 / 15:00",
+          "title": "RŪĶU JAMPADRACIS MUIŽĀ",
+          "info": "Saldumi, rotaļas ar rūķiem, priekšnesumi pie eglītes",
+          "infoLong": "Saldumi, rotaļas ar rūķiem, priekšnesumi pie eglītes",
+          "color": "yellow"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "date": 18,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": []
+    },
+    {
+      "date": 19,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": []
+    },
+    {
+      "date": 20,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": []
+    },
+    {
+      "date": 21,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Lekciju cikls (3)",
+          "time": "18:30",
+          "title": "KALIGRĀFIJA VĒSTURISKAJOS LAIKMETOS UN KULTŪRĀS",
+          "info": "ar Astru Reini",
+          "infoLong": "Kopā ar Astru Reini",
+          "color": "brown"
+        }
+      ]
+    },
+    {
+      "date": 22,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Dzeja un sarunas",
+          "time": "18:30",
+          "title": "MUIŽAS VAKARI",
+          "info": "ar Cēsu teātra aktieriem",
+          "infoLong": "Kopā ar Cēsu teātra aktieriem",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "date": 23,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Bērnu radošais rīts",
+          "time": "10:00 / 11:30",
+          "title": "RADI UN DARI!",
+          "info": "ar Inutu Briedi",
+          "infoLong": "Kopā ar Inutu Briedi",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 24,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": []
+    }
+  ],
+  [
+    {
+      "date": 25,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": []
+    },
+    {
+      "date": 26,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Ziemassvētki bērniem",
+          "time": "12:00 / 14:00",
+          "title": "RŪĶU JAMPADRACIS MUIŽĀ",
+          "info": "Saldumi, rotaļas ar rūķiem, priekšnesumi pie eglītes",
+          "infoLong": "Saldumi, rotaļas ar rūķiem, priekšnesumi pie eglītes",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 27,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": []
+    },
+    {
+      "date": 28,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Lekciju cikls (4)",
+          "time": "18:30",
+          "title": "KALIGRĀFIJA VĒSTURISKAJOS LAIKMETOS UN KULTŪRĀS",
+          "info": "ar Astru Reini",
+          "infoLong": "Kopā ar Astru Reini",
+          "color": "brown"
+        }
+      ]
+    },
+    {
+      "date": 29,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Dzeja un sarunas",
+          "time": "18:30",
+          "title": "MUIŽAS VAKARI",
+          "info": "ar Cēsu teātra aktieriem",
+          "infoLong": "Kopā ar Cēsu teātra aktieriem",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "date": 30,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Bērnu radošais rīts",
+          "time": "10:00 / 11:30",
+          "title": "RADI UN DARI!",
+          "info": "ar Inutu Briedi",
+          "infoLong": "Kopā ar Inutu Briedi",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 31,
+      "month": "Decembris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": []
+    }
+  ]
+]

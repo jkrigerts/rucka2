@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("fonts/RobotoCondensed-VariableFont_wght.ttf");
+}
+
+/* @font-face {
+  font-family: "RobotoRegular";
+  src: url("fonts/RobotoCondensed-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "RobotoLight";
+  src: url("fonts/RobotoCondensed-Light.ttf");
+  font-weight: lighter;
+  font-style: normal;
+} */
+
+@font-face {
+  font-family: "PlayfairDisplayExtraBold";
+  src: url("fonts/PlayfairDisplay-ExtraBold.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Roboto";
+
+  --main-font: "Roboto";
+  --accent-font: "PlayfairDisplayExtraBold";
+
+  --avenu-sarkana: #9e004f;
+  --dabas-zala: #8f9a50;
+  --mala-bruna: #af4836;
+  --debess-zila: #548eaf;
+  --akmens-peleka: #616359;
+  --smilsu-dzeltena: #d9992d;
+  --white: #ffffff;
+  --white-darker: #ebebec;
+  --black: #231f20;
+  --black-transparent: rgba(5, 5, 5, 0.7);
+  --white-transparent: rgba(255, 255, 255, 0.5);
+  --black-lighter: #4d4d4f;
+}
+
+body {
+  background-image: url("background.webp");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
