@@ -7,3 +7,5 @@
 </svelte:head>
 
   <slot />
+
+  <style></style>

@@ -36,9 +36,6 @@
     cursor: pointer;
     padding: 0 15px;
   }
-  button:hover {
-
-  }
 
   .e-3:first-child, .e-2:first-child {
     padding-right: 25px;
