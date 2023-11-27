@@ -15,10 +15,11 @@
     <Close />
   </button>
   <p>{event.type}</p>
-  <h2 class={event.color}>{event.title}</h2>
+  <h2 class={event.color}>{event.titleLong != "" ? event.titleLong : event.title}</h2>
   <p>{date.day}. {date.month.toLowerCase()}</p>
-  <p>{event.time}</p>
+  <p>{event.timeLong ? event.timeLong : event.time}</p>
   <p class="description">{event.infoLong}</p>
+  <p class="price">{event.price}</p>
 </div>
 
 
@@ -84,7 +85,7 @@
     background: none;
   }
 
-  .description {
+  .description, .price {
     margin-top: 20px;
   }
 

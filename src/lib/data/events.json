@@ -11,8 +11,10 @@
           "type": "Atvērto durvju diena",
           "time": "16:00 - 18:00",
           "title": "NĀC UN IEPAZĪSTI RUCKAS MUIŽU!",
+          "titleLong": "",
           "info": "18:00 - 21:00 diskusija un ideju apmaiņa par muižas lomu cēsinieku dzīvē",
           "infoLong": "No 16:00 līdz 18:00 iepazīstiet Ruckas muižu un no 18:00 līdz 21:00 piedalieties diskusijā un ideju apmaiņā par muižas lomu cēsinieku dzīvē!",
+          "price": "",
           "color": "red"
         }
       ]
@@ -31,11 +33,13 @@
       "eventCount": 1,
       "events": [
         {
-          "type": "Kinolektorijs (dok. filma)",
+          "type": "Kinolektorijs",
           "time": "18:00",
           "title": "SVĒTCEĻOJUMS UZ SVĒTVIETU MEDŽUGORJE",
+          "titleLong": "",
           "info": "ar Renāru Sproģi un Andreju Trapočku",
-          "infoLong": "Kopā ar Renāru Sproģi un Andreju Trapočku",
+          "infoLong": "Renārs Sproģis ielūdz uz dokomentālās filmas  \"Svētceļojums uz svētvietu Medžugorje\" baudīšanu ar sarunām. Pasākumā viesosies Priesteris Andrejs Trapočka.",
+          "price": "Ieeja par ziedojumu",
           "color": "blue"
         }
       ]
@@ -54,11 +58,14 @@
       "eventCount": 1,
       "events": [
         {
-          "type": "Bērnu radošais rīts",
+          "type": "Radi un dari!",
           "time": "10:00 / 11:30",
-          "title": "RADI UN DARI!",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (5 - 8 gadi)",
+          "title": "BĒRNU RADOŠAIS RĪTS",
+          "titleLong": "",
           "info": "ar Inutu Briedi",
-          "infoLong": "Kopā ar Inutu Briedi",
+          "infoLong": "Bērnu radošas darbošanās rīts \"Radi un dari\" ar taustāmu un mājās līdzņemamu rezultātu kopā ar Inutu Briedi. 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 5 - 8 gadus veci bērni.",
+          "price": "Dalības maksa: 5 EUR",
           "color": "yellow"
         }
       ]
@@ -73,8 +80,10 @@
           "type": "Teātra izrāde bērniem",
           "time": "12:00",
           "title": "GADALAIKI",
+          "titleLong": "",
           "info": "Cēsu Jaunā teātra izrāde",
-          "infoLong": "Cēsu Jaunā teātra izrāde",
+          "infoLong": "Cēsu Jaunā teātra izrāde bērniem (3- 6 gadu vecumam) \"Gadalaiki\".",
+          "price": "Dalības maksa: 15 EUR",
           "color": "yellow"
         }
       ]
@@ -91,8 +100,10 @@
           "type": "Sarunu vakars",
           "time": "18:00",
           "title": "MUIŽU VĒSTURE...",
+          "titleLong": "LATVIJAS KULTŪRAS PIEMINEKĻI. MUIŽU VĒSTURE",
           "info": "ar Dr. Vitoldu Mašnovski",
-          "infoLong": "Kopā ar Dr. Vitoldu Mašnovski",
+          "infoLong": "Vakaru vada Latvijas Zinātņu akadēmijas loceklis un vēstures zinātņu Dr. Vitolds Mašnovskis.",
+          "price": "Ieeja par ziedojumu",
           "color": "gray"
         }
       ]
@@ -107,8 +118,10 @@
           "type": "Sarunu un stāstu vakars",
           "time": "18:30",
           "title": "DZIĻI RUCKĀ",
+          "titleLong": "",
           "info": "ar Liesmu Puduli",
-          "infoLong": "Kopā ar Liesmu Puduli",
+          "infoLong": "Liesmas Pudules vēstures stāstu un sarunu vakars \"Dziļi Ruckā\".",
+          "price": "Ieeja par ziedojumu",
           "color": "gray"
         }
       ]
@@ -130,8 +143,10 @@
           "type": "Lekciju cikls (1)",
           "time": "18:30",
           "title": "KALIGRĀFIJA VĒSTURISKAJOS LAIKMETOS UN KULTŪRĀS",
+          "titleLong": "",
           "info": "ar Astru Reini",
-          "infoLong": "Kopā ar Astru Reini",
+          "infoLong": "Kultūrvēstures lekciju cikla \"Kad pasaule rakstīja ar roku: kaligrāfija vēsturiskajos laikmetos un kultūrās\" iepazīšanās lekcija mākslinieces Astras Reines vadībā.",
+          "price": "Dalības maksa: 5 EUR",
           "color": "brown"
         }
       ]
@@ -146,8 +161,10 @@
           "type": "Dzeja un sarunas",
           "time": "18:30",
           "title": "MUIŽAS VAKARI",
+          "titleLong": "",
           "info": "ar Cēsu teātra aktieriem",
           "infoLong": "Kopā ar Cēsu teātra aktieriem",
+          "price": "Ieeja par ziedojumu",
           "color": "red"
         }
       ]
@@ -159,27 +176,34 @@
       "eventCount": 3,
       "events": [
         {
-          "type": "Bērnu radošais rīts",
+          "type": "Radi un dari!",
           "time": "10:00 / 11:30",
-          "title": "RADI UN DARI!",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (5 - 8 gadi)",
+          "title": "BĒRNU RADOŠAIS RĪTS",
+          "titleLong": "",
           "info": "",
-          "infoLong": "",
-          "color": "green"
+          "infoLong": "Bērnu radošas darbošanās rīts \"Radi un dari\" ar taustāmu un mājās līdzņemamu rezultātu kopā ar Inutu Briedi. 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 5 - 8 gadus veci bērni.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "yellow"
         },
         {
-          "type": "Atvērto durvju diena",
-          "time": "16:00 - 18:00",
-          "title": "NĀC UN IEPAZĪSTI RUCKAS MUIŽU!",
+          "type": "Meistardarbnīca",
+          "time": "12:00 - 14:30",
+          "title": "EGĻU MANTIŅAS...",
+          "titleLong": "EGĻU MANTIŅAS KĀ BĒRNĪBĀ",
           "info": "",
-          "infoLong": "",
-          "color": "yellow"
+          "infoLong": "Meistardarbnīca kopā ar mākslinieci Annu Afanasjevu - iespēja pagatavot gulbja vai stārķa figūriņu, kā arī uzzināt gadsimtu senās vates rotājumu tehnikas vēsturi.",
+          "price": "Dalības maksa: 25 EUR",
+          "color": "green"
         },
         {
           "type": "Koncerts MAZPUTNIŅŠ",
           "time": "17:30",
           "title": "TOMS ŅIZINS",
+          "titleLong": "",
           "info": "",
-          "infoLong": "",
+          "infoLong": "Toma Ņizina koncerts \"Mazputniņš\"",
+          "price": "Dalības maksa: 15 eiro ",
           "color": "blue"
         }
       ]
@@ -210,8 +234,10 @@
           "type": "Sarunu un stāstu vakars",
           "time": "18:30",
           "title": "RUCKAS STĀSTI",
+          "titleLong": "",
           "info": "ar Liesmu Puduli",
-          "infoLong": "Kopā ar Liesmu Puduli",
+          "infoLong": "Liesmas Pudules vēstures stāstu un sarunu vakars \"Ruckas stāsti\".",
+          "price": "Ieeja par ziedojumu",
           "color": "gray"
         }
       ]
@@ -233,16 +259,20 @@
           "type": "Lekciju cikls (2)",
           "time": "18:30",
           "title": "KALIGRĀFIJA...",
+          "titleLong": "KALIGRĀFIJA VĒSTURISKAJOS LAIKMETOS UN KULTŪRĀS",
           "info": "",
-          "infoLong": "",
+          "infoLong": "Lekcija kultūrvēstures lekciju cikla \"Kad pasaule rakstīja ar roku: kaligrāfija vēsturiskajos laikmetos un kultūrās\" mākslinieces Astras Reines vadībā.",
+          "price": "Dalības maksa: 5 EUR",
           "color": "brown"
         },
         {
-          "type": "Filma DOKUMENTĀLISTS",
+          "type": "Kinolektorijs",
           "time": "18:30",
-          "title": "PAR PURVA INTAS...",
+          "title": "DOKUMENTĀLISTS",
+          "titleLong": "",
           "info": "ar režisoru Ivaru Zviedri",
-          "infoLong": "Kopā ar režisoru Ivaru Zviedri",
+          "infoLong": "Filma \"Dokumentālists\", gaidot Ziemassvētkus ar Purva Intas dzīves peripētijām un filmas režisora Ivara Zviedra klātbūtni.",
+          "price": "Ieeja par ziedojumu",
           "color": "blue"
         }
       ]
@@ -257,8 +287,10 @@
           "type": "Dzeja un sarunas",
           "time": "18:30",
           "title": "MUIŽAS VAKARI",
-          "info": "",
-          "infoLong": "",
+          "titleLong": "",
+          "info": "ar Cēsu teātra aktieriem",
+          "infoLong": "Kopā ar Cēsu teātra aktieriem",
+          "price": "Ieeja par ziedojumu",
           "color": "red"
         },
 
@@ -266,9 +298,11 @@
           "type": "Meistardarbnīca",
           "time": "17:30 - 19:30",
           "title": "SVĒTKU KARTIŅAS...",
+          "titleLong": "",
           "info": "ar Aigu Kalniņu",
-          "infoLong": "Kopā ar Aigu Kalniņu",
-          "color": "blue"
+          "infoLong": "Ziemassvētku kartīšu radīšanas meistardarbnīca \"Priecīgus svētkus!\" kopā ar Aigu Kalniņu.",
+          "price": "Dalības maksa: 25 EUR",
+          "color": "green"
         }
       ]
     },
@@ -277,7 +311,19 @@
       "month": "Decembris",
       "showMonth": false,
       "eventCount": 1,
-      "events": []
+      "events": [
+        {
+          "type": "Radi un dari!",
+          "time": "10:00 / 11:30",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (5 - 8 gadi)",
+          "title": "BĒRNU RADOŠAIS RĪTS",
+          "titleLong": "",
+          "info": "ar Inutu Briedi",
+          "infoLong": "Bērnu radošas darbošanās rīts \"Radi un dari\" ar taustāmu un mājās līdzņemamu rezultātu kopā ar Inutu Briedi. 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 5 - 8 gadus veci bērni.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "yellow"
+        }
+      ]
     },
     {
       "date": 17,
@@ -289,8 +335,10 @@
           "type": "Ziemassvētki bērniem",
           "time": "11:00 / 13:00 / 15:00",
           "title": "RŪĶU JAMPADRACIS MUIŽĀ",
+          "titleLong": "",
           "info": "Saldumi, rotaļas ar rūķiem, priekšnesumi pie eglītes",
-          "infoLong": "Saldumi, rotaļas ar rūķiem, priekšnesumi pie eglītes",
+          "infoLong": "Saldumi, rotaļas ar rūķiem, priekšnesumi pie eglītes.",
+          "price": "Dalības maksa: 25 EUR",
           "color": "yellow"
         }
       ]
@@ -328,8 +376,10 @@
           "type": "Lekciju cikls (3)",
           "time": "18:30",
           "title": "KALIGRĀFIJA VĒSTURISKAJOS LAIKMETOS UN KULTŪRĀS",
-          "info": "ar Astru Reini",
-          "infoLong": "Kopā ar Astru Reini",
+          "titleLong": "KALIGRĀFIJA VĒSTURISKAJOS LAIKMETOS UN KULTŪRĀS",
+          "info": "",
+          "infoLong": "Lekcija kultūrvēstures lekciju cikla \"Kad pasaule rakstīja ar roku: kaligrāfija vēsturiskajos laikmetos un kultūrās\" mākslinieces Astras Reines vadībā.",
+          "price": "Dalības maksa: 5 EUR",
           "color": "brown"
         }
       ]
@@ -344,8 +394,10 @@
           "type": "Dzeja un sarunas",
           "time": "18:30",
           "title": "MUIŽAS VAKARI",
+          "titleLong": "",
           "info": "ar Cēsu teātra aktieriem",
           "infoLong": "Kopā ar Cēsu teātra aktieriem",
+          "price": "Ieeja par ziedojumu",
           "color": "red"
         }
       ]
@@ -357,11 +409,14 @@
       "eventCount": 1,
       "events": [
         {
-          "type": "Bērnu radošais rīts",
+          "type": "Radi un dari!",
           "time": "10:00 / 11:30",
-          "title": "RADI UN DARI!",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (5 - 8 gadi)",
+          "title": "BĒRNU RADOŠAIS RĪTS",
+          "titleLong": "",
           "info": "ar Inutu Briedi",
-          "infoLong": "Kopā ar Inutu Briedi",
+          "infoLong": "Bērnu radošas darbošanās rīts \"Radi un dari\" ar taustāmu un mājās līdzņemamu rezultātu kopā ar Inutu Briedi. 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 5 - 8 gadus veci bērni.",
+          "price": "Dalības maksa: 5 EUR",
           "color": "yellow"
         }
       ]
@@ -392,8 +447,10 @@
           "type": "Ziemassvētki bērniem",
           "time": "12:00 / 14:00",
           "title": "RŪĶU JAMPADRACIS MUIŽĀ",
+          "titleLong": "",
           "info": "Saldumi, rotaļas ar rūķiem, priekšnesumi pie eglītes",
-          "infoLong": "Saldumi, rotaļas ar rūķiem, priekšnesumi pie eglītes",
+          "infoLong": "Saldumi, rotaļas ar rūķiem, priekšnesumi pie eglītes.",
+          "price": "Dalības maksa: 25 EUR",
           "color": "yellow"
         }
       ]
@@ -415,8 +472,10 @@
           "type": "Lekciju cikls (4)",
           "time": "18:30",
           "title": "KALIGRĀFIJA VĒSTURISKAJOS LAIKMETOS UN KULTŪRĀS",
-          "info": "ar Astru Reini",
-          "infoLong": "Kopā ar Astru Reini",
+          "titleLong": "KALIGRĀFIJA VĒSTURISKAJOS LAIKMETOS UN KULTŪRĀS",
+          "info": "",
+          "infoLong": "Lekcija kultūrvēstures lekciju cikla \"Kad pasaule rakstīja ar roku: kaligrāfija vēsturiskajos laikmetos un kultūrās\" mākslinieces Astras Reines vadībā.",
+          "price": "Dalības maksa: 5 EUR",
           "color": "brown"
         }
       ]
@@ -431,8 +490,10 @@
           "type": "Dzeja un sarunas",
           "time": "18:30",
           "title": "MUIŽAS VAKARI",
+          "titleLong": "",
           "info": "ar Cēsu teātra aktieriem",
           "infoLong": "Kopā ar Cēsu teātra aktieriem",
+          "price": "Ieeja par ziedojumu",
           "color": "red"
         }
       ]
@@ -444,11 +505,14 @@
       "eventCount": 1,
       "events": [
         {
-          "type": "Bērnu radošais rīts",
+          "type": "Radi un dari!",
           "time": "10:00 / 11:30",
-          "title": "RADI UN DARI!",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (5 - 8 gadi)",
+          "title": "BĒRNU RADOŠAIS RĪTS",
+          "titleLong": "",
           "info": "ar Inutu Briedi",
-          "infoLong": "Kopā ar Inutu Briedi",
+          "infoLong": "Bērnu radošas darbošanās rīts \"Radi un dari\" ar taustāmu un mājās līdzņemamu rezultātu kopā ar Inutu Briedi. 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 5 - 8 gadus veci bērni.",
+          "price": "Dalības maksa: 5 EUR",
           "color": "yellow"
         }
       ]

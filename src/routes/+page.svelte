@@ -1,6 +1,8 @@
 <script>
   import events from "$lib/data/events.json";
   import Date from "./Date.svelte";
+  import Facebook from "./Facebook.svelte";
+  import Instagram from "./Instagram.svelte";
 
 </script>
 
@@ -24,6 +26,14 @@
     <p class="footer">Vairāk informācijas Ruckas mižas sociālajos tīklos vai rakstot
       uz e-pastu <strong><a href="mailto:ruckasm@gmail.com">ruckasm@gmail.com</a></strong> vai zvanot uz tel. <strong><a href="tel:+37129437258">29437258</a></strong> (Sanita), <strong><a href="tel:+37126496004">26496004</a></strong> (Margarita)
     </p>
+    <div class="social-sm">
+      <a href="https://www.facebook.com/profile.php?id=61551705841167" target="_blank"><Facebook /></a>
+      <a href="https://instagram.com/ruckas.muiza?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><Instagram /></a>
+    </div>
+  </div>
+  <div class="social">
+    <a href="https://www.facebook.com/profile.php?id=61551705841167" target="_blank"><Facebook /></a>
+    <a href="https://instagram.com/ruckas.muiza?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><Instagram /></a>
   </div>
 </main>
 <footer>
@@ -45,6 +55,7 @@
     padding: 40px 40px 0 100px;
     height: 100vh;
     overflow-y: scroll;
+    position: relative;
   }
 
   #logo {
@@ -74,6 +85,30 @@
   h2 {
     font-size: 1.2rem;
     font-weight: 400;
+  }
+
+  .social, .social-sm {
+    display: flex;
+  }
+
+  .social {
+    position: absolute;
+    bottom: 15px;
+    left: -3.5vw;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .social-sm {
+    margin-top: 10px;
+    margin-left: -5px;
+    gap: 20px;
+    flex-direction: row;
+    display: none;
+  }
+
+  .social > a, .social-sm > a {
+    color: inherit;
   }
 
   table {
@@ -109,6 +144,16 @@
     flex-direction: column;
     gap:7px;
     padding-bottom: 7px;
+    }
+  }
+
+  @media (max-width: 940px) {
+    .social {
+      display: none;
+    }
+
+    .social-sm {
+      display: flex;
     }
   }
 
