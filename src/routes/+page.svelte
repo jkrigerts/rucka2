@@ -36,15 +36,12 @@
     <a href="https://instagram.com/ruckas.muiza?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><Instagram /></a>
   </div>
 </main>
-<footer>
-
-</footer>
 
 <style>
 
   main {
     background-color: var(--black-transparent);
-    height: 100vh;
+    min-height: 100vh;
     width: min(1200px, 88vw);
     margin: 0 auto;
     position: relative;
@@ -52,9 +49,9 @@
   }
 
   .inner-content {
-    padding: 40px 40px 0 100px;
-    height: 100vh;
-    overflow-y: scroll;
+    padding: 40px 40px 10px 100px;
+    min-height: 100vh;
+    /* overflow-y: scroll; */
     position: relative;
   }
 
@@ -136,7 +133,7 @@
     }
 
     .inner-content {
-      padding: 40px 40px 0 40px;
+      padding: 40px 40px 10px 40px;
     }
 
     .header-distributer {
@@ -163,7 +160,7 @@
     }
 
     .inner-content {
-      padding: 40px 20px 0 20px;
+      padding: 40px 20px 20px 20px;
     }
 
     .header-distributer {
@@ -176,7 +173,7 @@
 
   @media (max-width: 820px) {
     .inner-content {
-      padding: 40px 20px 0 20px;
+      padding: 40px 20px 20px 20px;
     }
 
     h1 {
@@ -198,7 +195,7 @@
     }
 
     .inner-content {
-      padding: 20px 15px 0 15px;
+      padding: 20px 15px 20px 15px;
     }
 
     .header-distributer {
@@ -234,7 +231,7 @@
 
   @media (max-width: 340px) {
     .inner-content {
-      padding: 90px 7px 0 7px;
+      padding: 90px 7px 20px 7px;
     }
     .header-distributer {
       margin-left: 0px;
