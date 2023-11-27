@@ -10,10 +10,6 @@
   }
 </script>
 
-{#if open}
-  <Modal event={event} date={date} close={handleClose}/>
-{/if}
-
 <button class={`${event.color} e-${date.count}`} on:click={() => open = true}>
   <div>
     <p class={`type e-${date.count}`}>{event.type}</p>
@@ -25,9 +21,13 @@
   </div>
 </button>
 
+{#if open}
+  <Modal event={event} date={date} close={handleClose}/>
+{/if}
+
 <style>
   button {
-    flex-grow: 1;
+    flex: 1;
     display: flex;
     align-items: center;
     text-align: left;
@@ -37,7 +37,15 @@
     padding: 0 15px;
   }
 
-  .e-3:first-child, .e-2:first-child {
+  button:active {
+    
+  }
+
+  button > div {
+    overflow: hidden;
+  }
+
+  .e-3:first-child {
     padding-right: 25px;
   }
 
@@ -48,9 +56,8 @@
   h4 {
     font-size: 0.7rem;
     font-family: var(--accent-font);
-    line-height: 1.2;
+    line-height: 1.2;  
   }
-
 
   .green {
     background-color: var(--dabas-zala);
@@ -90,28 +97,16 @@
     .time.e-3, .time.e-2{
       display: none;
     }
+    .e-2:first-child {
+      padding-top: 20px;
+    }
     button {
       padding: 0 10px;
     }
   }
 
   @media (max-width: 850px) {
-    .title.e-3, .title.e-2{
-      font-size: calc(0.4rem + 0.5vw);
-    }
-  }
-
-  @media (max-width: 700px) {
-    .title.e-3, .title.e-2{
-      font-size: 0.6rem;
-    }
-  }
-
-  @media (max-width: 600px) {
-    .time.e-1, .title.e-3, .title.e-2{
-      display: none;
-    }
-    .title.e-1{
+    .title{
       font-size: calc(0.4rem + 0.5vw);
     }
     button {
@@ -119,9 +114,27 @@
     }
   }
 
-  @media (max-width: 540px) {
-    .title.e-1{
+  /* @media (max-width: 700px) {
+    .title{
+      font-size: 0.6rem;
+    }
+  } */
+
+  @media (max-width: 650px) {
+    .time.e-1 {
       display: none;
+    }
+    .title{
+      font-size: calc(0.2rem + 0.9vw);
+    }
+    button {
+      padding: 0 3px;
+    }
+  }
+
+  @media (max-width: 540px) {
+    .e-1:first-child {
+      padding-top: 10px;
     }
   }
 

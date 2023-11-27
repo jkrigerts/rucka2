@@ -11,6 +11,7 @@
       <h1>RUCKAS MUIŽA piedāvā</h1>
       <h2>2023. gada DECEMBRA <strong>PASĀKUMU KALENDĀRS</strong></h2>
     </div>
+    <p class="explanation">Uzziniet vairāk, izvēloties krāsaino datumu!</p>
     <table>
       {#each events as week}
         <tr>
@@ -20,8 +21,8 @@
         </tr>
       {/each}
     </table>
-    <p class="footer">Vairak informācijas Ruckas mižas sociālajos tīklos vai rakstot
-      uz e-pastu <strong>ruckasm@gmail.com</strong> vai zvanot uz tel. <strong>29437258</strong> (Sanita), <strong>26496004</strong> (Margarita)
+    <p class="footer">Vairāk informācijas Ruckas mižas sociālajos tīklos vai rakstot
+      uz e-pastu <strong><a href="mailto:ruckasm@gmail.com">ruckasm@gmail.com</a></strong> vai zvanot uz tel. <strong><a href="tel:+37129437258">29437258</a></strong> (Sanita), <strong><a href="tel:+37126496004">26496004</a></strong> (Margarita)
     </p>
   </div>
 </main>
@@ -50,7 +51,7 @@
     display: block;
     position: absolute;
     width: 150px;
-    top: 0px;
+    top: -1px;
     left: 0px;
     transform: translateX(-50%);
     z-index: 500;
@@ -79,11 +80,16 @@
     border-collapse: collapse;
     border: 1px solid var(--white-transparent);
     width: 100%;
+    table-layout: fixed;
   }
 
   .footer {
     padding-top: 15px;
   }
+
+  .footer a {
+    color: inherit;
+  } 
 
   @media (max-width: 1200px) {
     #logo{
@@ -171,8 +177,8 @@
       font-size: 0.9rem;
     }
 
-    .footer {
-      font-size: 0.8rem;
+    .footer, .explanation {
+      font-size: 0.95rem;
     }
 
     .header-distributer {

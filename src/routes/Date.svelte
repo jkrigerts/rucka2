@@ -58,19 +58,19 @@
 
   @media (max-width: 600px) {
     td {
-      height: 80px;
+      height: 110px;
     }
   }
 
   @media (max-width: 490px) {
     td {
-      height: 70px;
+      height: 100px;
     }
   }
 
   @media (max-width: 400px) {
     td {
-      height: 60px;
+      height: 90px;
     }
   }
   

@@ -1,4 +1,5 @@
 <script>
+  import { fade, scale } from 'svelte/transition';
   import Close from "./Close.svelte";
   export let event;
   export let date;
@@ -6,10 +7,10 @@
 </script>
 
 
-<button class="wrapper" on:click={close}>
+<button class="wrapper" on:click={close} transition:fade>
 </button>
 
-<div class="modal">
+<div class="modal" transition:scale>
   <button class={`close ${event.color}`} on:click={close}>
     <Close />
   </button>
