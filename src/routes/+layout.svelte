@@ -8,7 +8,7 @@
   <meta property="og:title" content="Ruckas muiža" />
   <meta property="og:type" content="website" />
   <meta property="og:description" content="2023. gada DECEMBRA PASĀKUMU KALENDĀRS" />
-  <meta property="og:image" content="https://www.ruckasmuiza.lv/ruckasmuiza-calendar-og.png/" />
+  <meta property="og:image" content="https://www.ruckasmuiza.lv/ruckasmuiza-calendar-og.jpg/" />
 </svelte:head>
 
 <slot />
