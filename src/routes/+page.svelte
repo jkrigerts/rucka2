@@ -23,7 +23,7 @@
         </tr>
       {/each}
     </table>
-    <p class="footer">Vairāk informācijas Ruckas mižas sociālajos tīklos vai rakstot
+    <p class="footer">Vairāk informācijas Ruckas muižas sociālajos tīklos vai rakstot
       uz e-pastu <strong><a href="mailto:ruckasm@gmail.com">ruckasm@gmail.com</a></strong> vai zvanot uz tel. <strong><a href="tel:+37129437258">29437258</a></strong> (Sanita), <strong><a href="tel:+37126496004">26496004</a></strong> (Margarita)
     </p>
     <div class="social-sm">
