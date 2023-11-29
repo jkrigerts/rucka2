@@ -95,18 +95,7 @@
       "month": "Decembris",
       "showMonth": false,
       "eventCount": 1,
-      "events": [
-        {
-          "type": "Sarunu vakars",
-          "time": "18:00",
-          "title": "MUIŽU VĒSTURE...",
-          "titleLong": "LATVIJAS KULTŪRAS PIEMINEKĻI. MUIŽU VĒSTURE",
-          "info": "ar Dr. Vitoldu Mašnovski",
-          "infoLong": "Vakaru vada Latvijas Zinātņu akadēmijas loceklis un vēstures zinātņu Dr. Vitolds Mašnovskis.",
-          "price": "Ieeja par ziedojumu",
-          "color": "gray"
-        }
-      ]
+      "events": []
     },
     {
       "date": 5,
