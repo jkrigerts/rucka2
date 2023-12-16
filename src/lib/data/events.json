@@ -281,17 +281,6 @@
           "infoLong": "Kopā ar Cēsu teātra aktieriem",
           "price": "Ieeja par ziedojumu",
           "color": "red"
-        },
-
-        {
-          "type": "Meistardarbnīca",
-          "time": "17:30 - 19:30",
-          "title": "SVĒTKU KARTĪTES...",
-          "titleLong": "SVĒTKU KARTĪŠU VEIDOŠANA",
-          "info": "ar Aigu Kalniņu",
-          "infoLong": "Ziemassvētku kartīšu radīšanas meistardarbnīca \"Priecīgus svētkus!\" kopā ar Aigu Kalniņu.",
-          "price": "Dalības maksa: 25 EUR",
-          "color": "green"
         }
       ]
     },
