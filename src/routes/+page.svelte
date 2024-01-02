@@ -10,10 +10,10 @@
   <img src="logo.png" alt="Ruckas muiža" id="logo"/>
   <div class="inner-content">
     <div class="header-distributer">
-      <h1>RUCKAS MUIŽA piedāvā</h1>
-      <h2>2023. gada DECEMBRA <strong>PASĀKUMU KALENDĀRS</strong></h2>
+      <h1>Ruckas muiža ielūdz!</h1>
+      <h2>2024. gada JANVĀRA <strong>PASĀKUMU KALENDĀRS</strong></h2>
     </div>
-    <p class="explanation">Uzziniet vairāk, izvēloties krāsaino datumu!</p>
+    <p class="explanation">Uzziniet vairāk, izvēloties krāsaino datumu</p>
     <table>
       {#each events as week}
         <tr>
@@ -24,7 +24,7 @@
       {/each}
     </table>
     <p class="footer">Vairāk informācijas Ruckas muižas sociālajos tīklos vai rakstot
-      uz e-pastu <strong><a href="mailto:ruckasm@gmail.com">ruckasm@gmail.com</a></strong> vai zvanot uz tel. <strong><a href="tel:+37129437258">29437258</a></strong> (Sanita), <strong><a href="tel:+37126496004">26496004</a></strong> (Margarita)
+      uz e-pastu <strong><a href="mailto:ruckasm@gmail.com">ruckasm@gmail.com</a></strong> vai zvanot uz tel. <strong><a href="tel:+37129437258">+371 28237566</a></strong>
     </p>
     <div class="social-sm">
       <a href="https://www.facebook.com/profile.php?id=61551705841167" target="_blank"><Facebook /></a>
