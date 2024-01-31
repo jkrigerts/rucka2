@@ -34,7 +34,7 @@
     color: inherit;
     border: none;
     cursor: pointer;
-    padding: 0 15px;
+    padding: 0 10px;
   }
 
   button:active {
@@ -56,7 +56,9 @@
   h4 {
     font-size: 0.7rem;
     font-family: var(--accent-font);
-    line-height: 1.2;  
+    line-height: 1.2;
+    padding: 5px 0; 
+    text-transform: uppercase;
   }
 
   .green {
@@ -80,7 +82,7 @@
 
   @media (max-width: 1270px) {
     button {
-      padding: 0 7px;
+      padding: 0 10px;
     }
   }
 

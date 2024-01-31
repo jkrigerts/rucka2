@@ -32,7 +32,13 @@
     font-family: var(--accent-font);
     position: absolute;
     top:0;
-    right: 7px;
+    right: 10px;
+  }
+
+  @media (max-width: 850px) {
+    .date-number {
+      right: 6px;
+    }
   }
 
   .date-info {
@@ -40,7 +46,7 @@
     font-family: var(--accent-font);
     position: absolute;
     top:5px;
-    left: 7px;
+    left: 10px;
   }
 
   .content {
