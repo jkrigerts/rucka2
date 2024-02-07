@@ -292,8 +292,20 @@
       "date": 21,
       "month": "Februāris",
       "showMonth": false,
-      "eventCount": 0,
-      "events": []
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Tikšanās",
+          "time": "17:30",
+          "timeLong": "",
+          "title": "Harija Potera fanu klubs",
+          "titleLong": "",
+          "info": "Skolas vecuma bērniem",
+          "infoLong": "Harija Potera fanu kluba tikšanās skolas vecuma bērniem. Vietu skaits ierobežots!",
+          "price": "Dalības maksa: 7 EUR",
+          "color": "yellow"
+        }
+      ]
     },
     {
       "date": 22,
