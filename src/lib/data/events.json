@@ -124,20 +124,8 @@
       "date": 8,
       "month": "Februāris",
       "showMonth": false,
-      "eventCount": 1,
-      "events": [
-        {
-          "type": "Kultūrvēstures nodarbību cikls",
-          "time": "18:30",
-          "timeLong": "",
-          "title": "Kultūrvēsture caur rakstību",
-          "titleLong": "",
-          "info": "Vada Astra Reine",
-          "infoLong": "Nodarbību vada lekotre, māksliniece Astra Reine",
-          "price": "Dalības maksa: 5 EUR",
-          "color": "brown"
-        }
-      ]
+      "eventCount": 0,
+      "events": []
     },
     {
       "date": 9,
@@ -224,8 +212,19 @@
       "date": 15,
       "month": "Februāris",
       "showMonth": false,
-      "eventCount": 1,
+      "eventCount": 2,
       "events": [
+        {
+          "type": "Kultūrvēstures nodarbību cikls",
+          "time": "18:30",
+          "timeLong": "",
+          "title": "Kultūrvēsture caur rakstību",
+          "titleLong": "",
+          "info": "Vada Astra Reine",
+          "infoLong": "Nodarbību vada lekotre, māksliniece Astra Reine",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "brown"
+        },
         {
           "type": "Monoizrāde un meistarklase",
           "time": "19:00",
