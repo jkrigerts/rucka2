@@ -196,6 +196,7 @@
           "info": "Kopā ar Valsts asinsdonoru centru",
           "infoLong": "Donoru diena Ruckas muižā kopā ar Valsts asinsdonoru centru",
           "price": "Vairāk informācijas epastā ruckasm@gmail.com vai zvanot 28237566",
+          "noReservation": true,
           "color": "blue"
         }
       ]

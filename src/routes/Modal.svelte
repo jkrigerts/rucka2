@@ -23,14 +23,20 @@
     <p class="description">{event.infoLong}</p>
     <p class="price">{event.price}</p>
   </div>
-  <div class="contacts">
-    {#if !event.getTicket}
-      <Buy type="phone" color={event.color}/>
-      <Buy type="email" color={event.color}/>
-    {:else}
-      <Buy type={event.getTicket} color={event.color}/>
+  <div class="bottom">
+    {#if !event.noReservation}
+      <p>Iepriekšēja pieteikšanās:</p>
     {/if}
+    <div class="contacts">
+      {#if !event.getTicket}
+        <Buy type="phone" color={event.color}/>
+        <Buy type="email" color={event.color}/>
+      {:else}
+        <Buy type={event.getTicket} color={event.color}/>
+      {/if}
+    </div>
   </div>
+ 
 </div>
 
 
@@ -115,7 +121,9 @@
       width: 90vw;
     }
   }
-
+  .bottom > p {
+    margin-bottom: 10px;
+  }
   .contacts {
     display: flex;
     justify-content: space-between;
