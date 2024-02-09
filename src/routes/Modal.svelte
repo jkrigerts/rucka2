@@ -36,7 +36,9 @@
       {/if}
     </div>
   </div>
- 
+  {#if event.cancelled}
+    <div class="cancelled"><strong>ATCELTS</strong></div>
+  {/if}
 </div>
 
 
@@ -129,4 +131,15 @@
     justify-content: space-between;
   }
 
+  .cancelled {
+    position: absolute;
+    top:30px;
+    right: 10px;
+    padding: 10px 40px;
+    /* background: linear-gradient(90deg, rgba(0,0,0,0) 0%, var(--cancelled) 25% 75%, rgba(0,0,0,0) 100%); */
+    background-color: var(--cancelled);
+    color: var(--white-darker);
+    transform: rotate(20deg);
+    letter-spacing: 0.1rem;
+  }
 </style>

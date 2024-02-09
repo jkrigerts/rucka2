@@ -9,7 +9,7 @@
   {#if data.showMonth}
     <p class="date-info">{data.month}</p>
   {/if}
-  <h class="date-number">{data.date}</h>
+  <h3 class="date-number">{data.date}</h3>
   <div class="content">
     {#each data.events as event}
       <Event event={event} date={{month: data.month, day: data.date, count: data.eventCount}}/>
@@ -33,6 +33,7 @@
     position: absolute;
     top:0;
     right: 10px;
+    z-index: 10;
   }
 
   @media (max-width: 850px) {

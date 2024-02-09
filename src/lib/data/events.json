@@ -28,7 +28,7 @@
       "eventCount": 1,
       "events": [
         {
-          "type": "Kultūrvēstures nodarbību cikls",
+          "type": "Nodarbību cikls",
           "time": "18:30",
           "timeLong": "",
           "title": "Kultūrvēsture caur rakstību",
@@ -215,7 +215,7 @@
       "eventCount": 2,
       "events": [
         {
-          "type": "Kultūrvēstures nodarbību cikls",
+          "type": "Nodarbību cikls",
           "time": "18:30",
           "timeLong": "",
           "title": "Kultūrvēsture caur rakstību",
@@ -226,7 +226,7 @@
           "color": "brown"
         },
         {
-          "type": "Monoizrāde un meistarklase",
+          "type": "Monoizrāde",
           "time": "19:00",
           "timeLong": "",
           "title": "Ziepju vārītājs",
@@ -235,7 +235,8 @@
           "infoLong": "Jautra monoizrāde un meistarklase vienlaikus! Kopā ar Kārli Anitēnu.",
           "price": "Biļetes cena: 29 - 35 EUR. Biļetes iegādājamas \"Biļešu Paradīzē\"",
           "color": "yellow",
-          "getTicket": "https://www.bilesuparadize.lv/lv/event/136110"
+          "noReservation": true,
+          "cancelled": true
         }
       ]
     },
@@ -314,7 +315,7 @@
       "eventCount": 1,
       "events": [
         {
-          "type": "Kultūrvēstures nodarbību cikls",
+          "type": "Nodarbību cikls",
           "time": "18:30",
           "timeLong": "",
           "title": "Kultūrvēsture caur rakstību",

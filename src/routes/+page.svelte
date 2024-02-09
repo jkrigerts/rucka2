@@ -26,6 +26,7 @@
     <p class="footer">Vairāk informācijas Ruckas muižas sociālajos tīklos vai rakstot
       uz e-pastu <strong><a href="mailto:ruckasm@gmail.com">ruckasm@gmail.com</a></strong> vai zvanot uz tel. <strong><a href="tel:+37129437258">+371 28237566</a></strong>
     </p>
+    <p>Mājaslapa vēl ir izstrādes stadijā.</p>
     <div class="social-sm">
       <a href="https://www.facebook.com/profile.php?id=61551705841167" target="_blank"><Facebook /></a>
       <a href="https://instagram.com/ruckas.muiza?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><Instagram /></a>

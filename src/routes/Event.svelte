@@ -19,6 +19,9 @@
       <p class={`info e-${date.count}`}>{event.info}</p>
     {/if}
   </div>
+  {#if event.cancelled}
+    <div class="cancelled"></div>
+  {/if}
 </button>
 
 {#if open}
@@ -35,18 +38,21 @@
     border: none;
     cursor: pointer;
     padding: 0 10px;
+    position: relative;
+    transition: all 0.3s;
   }
 
-  button:active {
-    
+  button:active, button:hover {
+    /* transform: scale(1.03);
+    z-index: 2; */
   }
 
   button > div {
     overflow: hidden;
   }
 
-  .e-3:first-child {
-    padding-right: 25px;
+  .e-3:first-child, .e-2:first-child {
+    padding-right: 20px;
   }
 
   p {
@@ -59,6 +65,10 @@
     line-height: 1.2;
     padding: 5px 0; 
     text-transform: uppercase;
+  }
+
+  .e-3, .e-2 h4 {
+    padding: 0; 
   }
 
   .green {
@@ -78,6 +88,25 @@
   }
   .yellow {
     background-color: var(--smilsu-dzeltena);
+  }
+
+  .green:hover {
+    background-color: var(--dabas-zala-darker);
+  }
+  .blue:hover {
+    background-color: var(--debess-zila-darker);
+  }
+  .gray:hover {
+    background-color: var(--akmens-peleka-darker);
+  }
+  .brown:hover {
+    background-color: var(--mala-bruna-darker);
+  }
+  .red:hover {
+    background-color: var(--avenu-sarkana-darker);
+  }
+  .yellow:hover {
+    background-color: var(--smilsu-dzeltena-darker);
   }
 
   @media (max-width: 1270px) {
@@ -138,6 +167,17 @@
     .e-1:first-child {
       padding-top: 10px;
     }
+  }
+
+  .cancelled {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    width: 100%;
+    height: 12%;
+    background-color: rgb(177, 32, 32);
+    background: linear-gradient(90deg, rgba(0,0,0,0) 0%, var(--cancelled) 15% 85%, rgba(0,0,0,0) 100%);
+    transform: translateX(-50%) rotate(20deg);
   }
 
 </style>

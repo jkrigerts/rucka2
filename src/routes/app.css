@@ -17,18 +17,31 @@
   --main-font: "Roboto Condensed", sans-serif;
   --accent-font: "Playfair Display", serif;
 
-  --avenu-sarkana: #9e004f;
-  --dabas-zala: #8f9a50;
-  --mala-bruna: #af4836;
-  --debess-zila: #548eaf;
-  --akmens-peleka: #616359;
-  --smilsu-dzeltena: #d9992d;
+  --avenu-sarkana: hsl(330, 100%, 31%);
+  --avenu-sarkana-darker: hsl(330, 100%, 28%);
+
+  --dabas-zala: hsl(69, 32%, 46%);
+  --dabas-zala-darker: hsl(69, 32%, 40%);
+
+  --mala-bruna: hsl(9, 53%, 45%);
+  --mala-bruna-darker: hsl(9, 53%, 40%);
+
+  --debess-zila: hsl(202, 36%, 51%);
+  --debess-zila-darker: hsl(202, 36%, 45%);
+
+  --akmens-peleka: hsl(72, 5%, 37%);
+  --akmens-peleka-darker: hsl(72, 5%, 32%);
+
+  --smilsu-dzeltena: hsl(38, 69%, 51%);
+  --smilsu-dzeltena-darker: hsl(38, 69%, 45%);
+
   --white: #ffffff;
   --white-darker: #ebebec;
   --black: #231f20;
   --black-transparent: rgba(5, 5, 5, 0.7);
   --white-transparent: rgba(255, 255, 255, 0.5);
   --black-lighter: #4d4d4f;
+  --cancelled: rgb(177, 32, 32);
 }
 
 body {
