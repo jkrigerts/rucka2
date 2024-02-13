@@ -174,7 +174,7 @@
     top: 45%;
     left: 50%;
     width: 100%;
-    height: 12%;
+    height: 0.9vh;
     background-color: rgb(177, 32, 32);
     background: linear-gradient(90deg, rgba(0,0,0,0) 0%, var(--cancelled) 15% 85%, rgba(0,0,0,0) 100%);
     transform: translateX(-50%) rotate(20deg);

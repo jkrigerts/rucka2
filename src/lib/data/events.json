@@ -234,7 +234,7 @@
           "info": "Kopā ar Kārli Anitēnu",
           "infoLong": "Jautra monoizrāde un meistarklase vienlaikus! Kopā ar Kārli Anitēnu.",
           "price": "Biļetes cena: 29 - 35 EUR. Biļetes iegādājamas \"Biļešu Paradīzē\"",
-          "color": "yellow",
+          "color": "gray",
           "noReservation": true,
           "cancelled": true
         }
@@ -368,7 +368,8 @@
           "info": "Kopā ar Lidiju Terlanovu",
           "infoLong": "Kāzu un ceramoniju plānotājas, vadītājas, stilistes Lidijas Terlanovas lekcija par jaunākajiem trendiem, dekorāciju modes tendencēm. Kāzu kleitu paraugu stends, ielūgumu paraugi.",
           "price": "Dalības maksa: 50 EUR",
-          "color": "red"
+          "color": "gray",
+          "cancelled": true
         }
       ]
     }
