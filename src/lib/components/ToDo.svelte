@@ -104,7 +104,7 @@
   article {
     width: 100vw;
     min-height: 100vh;
-    background-image: linear-gradient(to bottom, var(--black-transparent), transparent),url("103A2656.webp");
+    background-image: linear-gradient(to bottom, var(--black-transparent), transparent),url("https://rucka.vercel.app/103A2656.webp");
     background-color: var(--white);
     background-size: cover;
     background-position: center;
