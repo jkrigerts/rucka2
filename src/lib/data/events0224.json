@@ -1,0 +1,464 @@
+[
+  [
+    {
+      "date": 29,
+      "month": "Janvāris",
+      "showMonth": true,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 30,
+      "month": "Janvāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 31,
+      "month": "Janvāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 1,
+      "month": "Februāris",
+      "showMonth": true,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Nodarbību cikls",
+          "time": "18:30",
+          "timeLong": "",
+          "title": "Kultūrvēsture caur rakstību",
+          "titleLong": "",
+          "info": "Vada Astra Reine",
+          "infoLong": "Nodarbību vada lekotre, māksliniece Astra Reine",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "brown"
+        }
+      ]
+    },
+    {
+      "date": 2,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Koncerts \"LV81\" projekta ietvaros",
+          "time": "19:00",
+          "timeLong": "",
+          "title": "Pilsēta vieno. Pilsēta skan",
+          "titleLong": "",
+          "info": "Joran Steinhauer",
+          "infoLong": "Joran Steinhauer pieskandinās Cēsis un Ruckas muižu projekta \"LV81\" ietvaros",
+          "price": "Ieeja bez maksas",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "date": 3,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": [
+        {
+          "type": "Bērnu radošais rīts",
+          "time": "10:00 / 11:30",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (6 - 9 gadi)",
+          "title": "Salds, vēl saldāks",
+          "titleLong": "",
+          "info": "Kopā ar Inutu Briedi",
+          "infoLong": "Bērnu radošas darbošanās rīts \"Salds, vēl saldāks\" kopā ar mākslinieci Inutu Briedi. Dziedāsim, rotaļāsimies un radīsim konfekšu mākslu! 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 6 - 9 gadus veci bērni.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 4,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    }
+  ],
+  [
+    {
+      "date": 5,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 6,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 7,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Akvareļtehnikas meistarklase",
+          "time": "18:00 - 20:00",
+          "timeLong": "",
+          "title": "Radi kartīti un nosūti to!",
+          "titleLong": "",
+          "info": "Kopā ar Freiju Ruh",
+          "infoLong": "Akvareļtehnikas meistarklase kopā ar mākslinieci Freiju Ruh. Cenā iekļauti materiāli un siltie dzērieni.",
+          "price": "Dalības maksa: 20 EUR",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "date": 8,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 9,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 10,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Bērnu radošais rīts",
+          "time": "10:00 / 11:30",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (6 - 9 gadi)",
+          "title": "Lāču satikšanās",
+          "titleLong": "",
+          "info": "Kopā ar Inutu Briedi",
+          "infoLong": "Bērnu radošas darbošanās rīts \"Lāču satikšanās\" kopā ar mākslinieci Inutu Briedi. Uz nodarbību nāc kopā ar savu lācīti vai citu mīksto mīļmantiņu! Veidosim lāču portretus un iesaistīsim tos radošās nodarbēs! 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 6 - 9 gadus veci bērni.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 11,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    }
+  ],
+  [
+    {
+      "date": 12,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 13,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Donoru diena",
+          "time": "10:00 - 13:00",
+          "timeLong": "",
+          "title": "Ziedo mīlestību!",
+          "titleLong": "",
+          "info": "Kopā ar Valsts asinsdonoru centru",
+          "infoLong": "Donoru diena Ruckas muižā kopā ar Valsts asinsdonoru centru",
+          "price": "Vairāk informācijas epastā ruckasm@gmail.com vai zvanot 28237566",
+          "noReservation": true,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "date": 14,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Dzejas vakars muižā",
+          "time": "18:30",
+          "timeLong": "",
+          "title": "Mīlestība",
+          "titleLong": "",
+          "info": "Kopā ar Cēsu teātra aktrisēm",
+          "infoLong": "Dzejiski muzikāla saruna par mīlestības gaismu Valentīndienā kopā ar Cēsu teātra aktrisēm Inesi Romku, Inutu Briedi un Laumu Daugišu",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "date": 15,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 2,
+      "events": [
+        {
+          "type": "Nodarbību cikls",
+          "time": "18:30",
+          "timeLong": "",
+          "title": "Kultūrvēsture caur rakstību",
+          "titleLong": "",
+          "info": "Vada Astra Reine",
+          "infoLong": "Nodarbību vada lekotre, māksliniece Astra Reine",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "brown"
+        },
+        {
+          "type": "Monoizrāde",
+          "time": "19:00",
+          "timeLong": "",
+          "title": "Ziepju vārītājs",
+          "titleLong": "",
+          "info": "Kopā ar Kārli Anitēnu",
+          "infoLong": "Jautra monoizrāde un meistarklase vienlaikus! Kopā ar Kārli Anitēnu.",
+          "price": "Biļetes cena: 29 - 35 EUR. Biļetes iegādājamas \"Biļešu Paradīzē\"",
+          "color": "gray",
+          "noReservation": true,
+          "cancelled": true
+        }
+      ]
+    },
+    {
+      "date": 16,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 17,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Bērnu radošais rīts",
+          "time": "10:00 / 11:30",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (6 - 9 gadi)",
+          "title": "Veidošana ar sāls mīklas masu",
+          "titleLong": "",
+          "info": "Kopā ar Baibu Leitenu",
+          "infoLong": "Bērnu radošas darbošanās rīts kopā ar \"Zīmētprieks\" mākslinieci Baibu Leitenu. 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 6 - 9 gadus veci bērni.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 18,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    }
+  ],
+  [
+    {
+      "date": 19,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 20,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 21,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Tikšanās",
+          "time": "17:30",
+          "timeLong": "",
+          "title": "Harija Potera fanu klubs",
+          "titleLong": "",
+          "info": "Skolas vecuma bērniem",
+          "infoLong": "Harija Potera fanu kluba tikšanās skolas vecuma bērniem. Vietu skaits ierobežots!",
+          "price": "Dalības maksa: 7 EUR",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 22,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Nodarbību cikls",
+          "time": "18:30",
+          "timeLong": "",
+          "title": "Kultūrvēsture caur rakstību",
+          "titleLong": "",
+          "info": "Vada Astra Reine",
+          "infoLong": "Nodarbību vada lekotre, māksliniece Astra Reine",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "brown"
+        }
+      ]
+    },
+    {
+      "date": 23,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 24,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Bērnu radošais rīts",
+          "time": "10:00 / 11:30",
+          "timeLong": "10:00 (3 - 5 gadi) / 11:30 (6 - 9 gadi)",
+          "title": "Gleznošanas laiks",
+          "titleLong": "",
+          "info": "Kopā ar Baibu Leitenu",
+          "infoLong": "Bērnu radošas darbošanās rīts kopā ar \"Zīmētprieks\" mākslinieci Baibu Leitenu. Mācīsimies gleznot un radīsim gleznas! 10:00 aicināti 3 - 5 gadus veci, bet 11:30 aicināti 6 - 9 gadus veci bērni.",
+          "price": "Dalības maksa: 5 EUR",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "date": 25,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Kāzu tematikas lekcija",
+          "time": "12:00 - 16:00",
+          "timeLong": "",
+          "title": "Viņa teica \"Jā!\"",
+          "titleLong": "",
+          "info": "Kopā ar Lidiju Terlanovu",
+          "infoLong": "Kāzu un ceramoniju plānotājas, vadītājas, stilistes Lidijas Terlanovas lekcija par jaunākajiem trendiem, dekorāciju modes tendencēm. Kāzu kleitu paraugu stends, ielūgumu paraugi.",
+          "price": "Dalības maksa: 50 EUR",
+          "color": "gray",
+          "cancelled": true
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "date": 26,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 27,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Atvērto durvju diena",
+          "time": "17:00 - 18:00",
+          "timeLong": "",
+          "title": "Parunāsim par aktuālo!",
+          "titleLong": "",
+          "info": "Nāc un piedalies!",
+          "infoLong": "",
+          "price": "Nāc un piedalies!",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "date": 28,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Kino vakars",
+          "time": "18:30",
+          "timeLong": "",
+          "title": "Volontieri",
+          "titleLong": "",
+          "info": "Kopā ar Renāru Sproģi",
+          "infoLong": "Kino lektorijs Ruckas muižā kopā ar Renāru Sproģi dokumentālajai filmai \"Volontieri\"",
+          "price": "Dalības maksa: 7 EUR",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "date": 29,
+      "month": "Februāris",
+      "showMonth": false,
+      "eventCount": 1,
+      "events": [
+        {
+          "type": "Kino vakars",
+          "time": "18:30",
+          "timeLong": "",
+          "title": "Ceļojums uz svētvietu Medžugorje",
+          "titleLong": "",
+          "info": "Kopā ar Renāru Sproģi",
+          "infoLong": "Kino lektorijs Ruckas muižā kopā ar Renāru Sproģi dokumentālajai filmai \"Ceļojums uz svētvietu Medžugorje\"",
+          "price": "Dalības maksa: 7 EUR",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "date": 1,
+      "month": "Marts",
+      "showMonth": true,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 2,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    },
+    {
+      "date": 3,
+      "month": "Marts",
+      "showMonth": false,
+      "eventCount": 0,
+      "events": []
+    }
+  ]
+]

@@ -11,7 +11,7 @@
   <div class="inner-content">
     <div class="header-distributer">
       <h1>Ruckas muiža ielūdz!</h1>
-      <h2>2024. gada FEBRUĀRA <strong>PASĀKUMU KALENDĀRS</strong></h2>
+      <h2>2024. gada MARTA <strong>PASĀKUMU KALENDĀRS</strong></h2>
     </div>
     <p class="explanation">Uzziniet vairāk, izvēloties krāsaino datumu</p>
     <table>
@@ -24,7 +24,7 @@
       {/each}
     </table>
     <p class="footer">Vairāk informācijas Ruckas muižas sociālajos tīklos vai rakstot
-      uz e-pastu <strong><a href="mailto:ruckasm@gmail.com">ruckasm@gmail.com</a></strong> vai zvanot uz tel. <strong><a href="tel:+37129437258">+371 28237566</a></strong>
+      uz e-pastu <strong><a href="mailto:kultura@ruckasmuiza.lv">kultura@ruckasmuiza.lv</a></strong> vai zvanot uz tel. <strong><a href="tel:+37129437258">+371 28237566</a></strong>
     </p>
     <p>Mājaslapa vēl ir izstrādes stadijā.</p>
     <div class="social-sm">
