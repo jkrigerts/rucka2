@@ -1,7 +1,7 @@
 <script>
-  import Coin from "./Coin.svelte";
-import Mail from "./Mail.svelte";
-import Phone from "./Phone.svelte";
+  import Coin from "../Coin.svelte";
+import Mail from "../Mail.svelte";
+import Phone from "../Phone.svelte";
 
   export let type;
   export let color;

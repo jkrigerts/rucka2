@@ -1,20 +1,21 @@
 <header>
-  <nav>
-    <a href="/"><img src="/logo.png" alt="Logo"/></a>
-    <ul>
-      <li><a href="/">PAR MUIŽU</a></li>
-      <li><a href="/">AFIŠA</a></li>
-      <li><a href="/">IZKLAIDE</a></li>
-      <li><a href="/">NAKŠŅOŠANA</a></li>
-      <li><a href="/">BLOGS</a></li>
-      <li><a href="/">GALERIJA</a></li>
-    </ul>
-  </nav>
+  <div class="bt-10">
+    <nav>
+      <a href="/"><img src="/logo.png" alt="Logo"/></a>
+      <ul>
+        <li><a href="/">PAR MUIŽU</a></li>
+        <li><a href="/">AFIŠA</a></li>
+        <li><a href="/">IZKLAIDE</a></li>
+        <li><a href="/">NAKŠŅOŠANA</a></li>
+        <li><a href="/">BLOGS</a></li>
+        <li><a href="/">GALERIJA</a></li>
+      </ul>
+    </nav>
+  </div>
 </header>
 
 <style>
   header {
-    border-top: 10px solid var(--avenu-sarkana);
     position: fixed;
     top:0;
     left: 0;
@@ -24,6 +25,12 @@
     background: linear-gradient(to bottom, var(--black-transparent) 10% , transparent);
 
     /* backdrop-filter: blur(0.5px); */
+  }
+
+  .bt-10 {
+    width: 100%;
+    height: 100%;
+    border-top: 10px solid var(--avenu-sarkana);
   }
 
   nav {
