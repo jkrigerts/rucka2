@@ -9,6 +9,7 @@
         <li><a href="/">NAKŠŅOŠANA</a></li>
         <li><a href="/">BLOGS</a></li>
         <li><a href="/">GALERIJA</a></li>
+        <li><a href="/kontakti">KONTAKTI</a></li>
       </ul>
     </nav>
   </div>
@@ -20,10 +21,11 @@
     top:0;
     left: 0;
     width: 100vw;
+    height: 70px;
     z-index: 1000;
 
-    background: linear-gradient(to bottom, var(--black-transparent) 10% , transparent);
-
+    /* background: linear-gradient(to bottom, var(--black-transparent) 10% , transparent); */
+    background-color: var(--black);
     /* backdrop-filter: blur(0.5px); */
   }
 
